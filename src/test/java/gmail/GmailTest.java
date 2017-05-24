@@ -26,7 +26,7 @@ public class GmailTest extends TestsBase {
 
     @Test(dataProvider = "emails", dataProviderClass = EmailsProvider.class)
     public void gmailTest(Email expectedEmail){
-        inboxPage.openEmailWithSubject("Test subject");
+        inboxPage.openEmailWithSubject(expectedEmail.subject);
         Email actualEmail = inboxPage.getOpenedEmail();
 
         TestsBase.assertEmailsAreEqual(actualEmail, expectedEmail);
