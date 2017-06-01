@@ -1,9 +1,8 @@
 package gmail;
 
-import com.epam.jdi.entities.Email;
-import com.epam.jdi.site.epam.EpamSite;
-import com.epam.jdi.site.google.AccountsGoogleSite;
-import com.epam.jdi.site.google.GmailSite;
+import ru.crystals.entities.Email;
+import ru.crystals.site.google.AccountsGoogleSite;
+import ru.crystals.site.google.GmailSite;
 import com.epam.jdi.uitests.web.selenium.elements.composite.WebSite;
 import com.epam.jdi.uitests.web.testng.testRunner.TestNGBase;
 import com.epam.web.matcher.junit.Assert;

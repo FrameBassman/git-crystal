@@ -1,6 +1,6 @@
-package com.epam.jdi.site.google.sections;
+package ru.crystals.site.google.sections;
 
-import com.epam.jdi.entities.User;
+import ru.crystals.entities.User;
 import com.epam.jdi.uitests.core.interfaces.common.ITextField;
 import com.epam.jdi.uitests.web.selenium.elements.composite.Form;
 import com.epam.jdi.uitests.web.selenium.elements.common.Button;

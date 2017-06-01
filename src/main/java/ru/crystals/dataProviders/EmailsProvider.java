@@ -1,6 +1,6 @@
-package com.epam.jdi.dataProviders;
+package ru.crystals.dataProviders;
 
-import com.epam.jdi.entities.Email;
+import ru.crystals.entities.Email;
 import org.testng.annotations.DataProvider;
 
 /**

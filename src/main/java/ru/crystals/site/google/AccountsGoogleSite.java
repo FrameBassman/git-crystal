@@ -1,6 +1,6 @@
-package com.epam.jdi.site.google;
+package ru.crystals.site.google;
 
-import com.epam.jdi.site.google.sections.LoginForm;
+import ru.crystals.site.google.sections.LoginForm;
 import com.epam.jdi.uitests.web.selenium.elements.composite.WebSite;
 import com.epam.jdi.uitests.web.selenium.elements.pageobjects.annotations.JSite;
 import org.openqa.selenium.support.FindBy;

@@ -1,6 +1,6 @@
-package com.epam.jdi.site.google.pages;
+package ru.crystals.site.google.pages;
 
-import com.epam.jdi.entities.Email;
+import ru.crystals.entities.Email;
 import com.epam.jdi.uitests.core.interfaces.common.ITextField;
 import com.epam.jdi.uitests.core.interfaces.common.IText;
 import com.epam.jdi.uitests.web.selenium.elements.common.Button;

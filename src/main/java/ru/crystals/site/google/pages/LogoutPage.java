@@ -1,4 +1,4 @@
-package com.epam.jdi.site.google.pages;
+package ru.crystals.site.google.pages;
 
 import com.epam.jdi.uitests.web.selenium.elements.composite.WebPage;
 

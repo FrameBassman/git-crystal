@@ -1,4 +1,4 @@
-package com.epam.jdi.entities;
+package ru.crystals.entities;
 
 /**
  * Created by user on 24.05.2017.

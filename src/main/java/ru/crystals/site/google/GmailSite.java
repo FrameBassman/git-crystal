@@ -1,7 +1,7 @@
-package com.epam.jdi.site.google;
+package ru.crystals.site.google;
 
-import com.epam.jdi.site.google.pages.InboxPage;
-import com.epam.jdi.site.google.pages.LogoutPage;
+import ru.crystals.site.google.pages.InboxPage;
+import ru.crystals.site.google.pages.LogoutPage;
 import com.epam.jdi.uitests.web.selenium.elements.composite.WebSite;
 import com.epam.jdi.uitests.web.selenium.elements.pageobjects.annotations.JPage;
 import com.epam.jdi.uitests.web.selenium.elements.pageobjects.annotations.JSite;

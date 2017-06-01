@@ -1,6 +1,4 @@
-package com.epam.jdi.entities;
-
-import lombok.AllArgsConstructor;
+package ru.crystals.entities;
 
 /**
  * Created by Roman_Iovlev on 5/21/2015.
